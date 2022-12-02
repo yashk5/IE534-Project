@@ -15,7 +15,11 @@ Another important outcome of this project is to understand the major drivers of 
 
 ## Licensing 
 **Dataset Name** : Crimes- 2001 to Present
+
 **Dataset Owner** : cocadmin 
+
 **Data Provided By**: Chicago Police Department
+
 **License**: https://data.cityofchicago.org/Public-Safety/Crimes-2001-to-Present/ijzp-q8t2
+
 **Source Link**: 	https://portal.chicagopolice.org/portal/page/portal/ClearPath
