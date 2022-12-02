@@ -1,10 +1,10 @@
 # IE534-Project
 
 ## Team Members : 
-1. Mayank Agarwal
-2. Debapratim Ghosh
-3. Yash Prakash Bajaj
-4. Yash Kalyani
+1. Mayank Agarwal (mayanka5@illinois.edu)
+2. Debapratim Ghosh (dg19@illinois.edu)
+3. Yash Prakash Bajaj (yashpb2@illinois.edu)
+4. Yash Kalyani (yashk5@illinois.edu)
 
 ## Data Set : Chicago Crime Dataset 
 
